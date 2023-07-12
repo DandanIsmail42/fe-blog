@@ -1,3 +1,4 @@
+import 'bootstrap/dist/css/bootstrap.min.css';
 import '@/styles/globals.css'
 import {createStore, compose, applyMiddleware} from 'redux';
 import { Provider } from 'react-redux';

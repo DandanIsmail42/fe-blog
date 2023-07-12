@@ -1,6 +1,6 @@
 
 import Layout from '@/components/Layout/Layout'
-import 'bootstrap/dist/css/bootstrap.min.css';
+
 import { BlogList } from '@/components'
 import { useDispatch, useSelector } from 'react-redux'
 // import { getListBlog } from '@/actions/blogAction'
