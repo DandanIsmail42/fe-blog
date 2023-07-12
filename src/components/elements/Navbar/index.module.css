@@ -1,0 +1,14 @@
+li.active{
+  background-color: rgb(255, 238, 238);
+  color: rgb(77, 66, 66);
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 14px;
+}
+.bg-body-tertiary{
+  background-color: blueviolet;
+  color: beige;
+}
+
+
+
