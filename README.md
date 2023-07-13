@@ -2,7 +2,7 @@
 Ada kendala saat menggunakan hosting public tidak bisa add user karena harus sesuai email yang terdapat token pada api public yang di sediakan. 
 
 ## Solusi
-Jalankan Program di local lalu daftar terlebih dahulu di web api yang di sediakan pada saat challenge untuk mendapatkan token nya. Setelah dapat token lalu ganti token pada folder components > api > index.js lalu masukan ganti token di bagian Authorization, save lalu jalankan web dengan npm run dev
+Jalankan Program di local lalu daftar terlebih dahulu di https://gorest.co.in/ untuk mendapatkan token nya. Setelah dapat token lalu ganti token pada folder components > api > index.js lalu masukan ganti token di bagian Authorization, save lalu jalankan web dengan npm run dev
 
 ## Cara menjalankan di local
 1. clone repo
