@@ -1,3 +1,15 @@
+## Noted
+Ada kendala saat menggunakan hosting public tidak bisa add user karena harus sesuai email yang terdapat token pada api public yang di sediakan. 
+
+## Solusi
+Jalankan Program di local lalu daftar terlebih dahulu di web api yang di sediakan pada saat challenge untuk mendapatkan token nya. Setelah dapat token lalu ganti token pada folder components > api > index.js lalu masukan ganti token di bagian Authorization, save lalu jalankan web dengan npm run dev
+
+## Cara menjalankan di local
+1. clone repo
+2. Npm install untuk mengistall semua package
+3. Npm run dev untuk menjalankan web di local
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
